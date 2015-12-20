@@ -1,0 +1,6 @@
+#meteor {
+  /* Image source: https://commons.wikimedia.org/wiki/File:Leonid_Meteor.jpg */
+  background: url('image.jpg');
+  height: 751px;
+  width: 768px;
+}
